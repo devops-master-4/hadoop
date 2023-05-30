@@ -1,0 +1,10 @@
+numpy
+seaborn
+itables
+plotly
+matplotlib
+pycountry
+ipykernel
+scikit-learn
+pandas
+pyspark

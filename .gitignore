@@ -1,0 +1,10 @@
+*.swo
+*.swp
+*.log
+*.pyc
+.venv
+.idea/
+*.iml
+.vscode/
+venv/
+__pycache__/
