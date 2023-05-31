@@ -8,3 +8,5 @@ ipykernel
 scikit-learn
 pandas
 pyspark
+nbformat
+ffmpeg
